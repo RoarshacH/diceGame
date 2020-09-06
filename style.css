@@ -1,0 +1,53 @@
+body{
+    background-color: #33343d;
+    font-family: 'Comic Sans MS';
+    color: #44c396;
+    text-align: center;
+}
+h1{
+    font-size: 50px;
+    font-style: italic;
+}
+
+h3{
+    font-size: 28px;
+}
+.body-dice{
+    left: 50%;
+    align-self: center;
+}
+button{
+    
+    background-color: seagreen;
+    color: white;
+    width: 100px;
+    height: 40px;
+    padding: 0px;
+    border: 1px solid #33343d;
+    
+}
+button:hover{
+    cursor: pointer;
+    background-color: aliceblue;
+    color: seagreen;
+
+}
+.dice{
+    width: 250px;
+    background-color: red;
+}
+
+.side{
+    height: 400px;
+
+    width: 50%;
+    float: left;
+    text-align: center;
+}
+h5{
+    margin-top: 40px;
+
+}
+.logo{
+    width: 200px;
+}
